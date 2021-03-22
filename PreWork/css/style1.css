@@ -1,0 +1,49 @@
+
+
+
+	body{ 
+		 background: lightblue;
+		 border-color: solid;
+		 padding: 10px;
+		 margin: 5px;
+
+
+		}
+		h1{
+			color: red;
+			font-family: cursive; 
+			font-family: courier;
+			font-weight: 300px;
+			text-align: center;
+			text-decoration: underline;
+			font-weight: bold;
+			text-decoration: underline blue;
+		}
+		h2{
+			font-style: italic;
+			text-decoration: underline red;
+			color: #ff1100;
+		}
+
+		p{
+			text-transform: ;
+			text-align: left;
+			line-height: 1.2;
+			font-size: 12pt
+
+		}
+
+		/*text-transform: capitalize?*/
+
+			a{font-size: small;
+			text-indent: 10px}
+
+		/*valid color names acqua, black, blue, fuschia, gray, green, lime, maroon, navy, olive, orange, purple, red, silver, teal, white, yellow*/
+
+
+
+nav{
+	position: relative;
+	top: : 200px;
+	width: 200px;
+}
